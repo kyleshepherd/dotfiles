@@ -6,7 +6,7 @@ These are config files to setup a system how I like it. It uses [Oh My ZSH](http
 
 The repo can be cloned whereever, I like to keep it in `~/.dotfiles`.
 ```
-git clone https://github.com/jamesjwarren/dotfiles.git .dotfiles
+git clone https://github.com/kyleshepherd/dotfiles.git .dotfiles
 cd .dotfiles
 source bootstrap.sh
 ```

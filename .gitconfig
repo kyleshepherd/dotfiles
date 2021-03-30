@@ -1,7 +1,7 @@
 [user]
-    name = James Warren
-    email = james@thisissoon.com
-    signingkey = D7B55A95C88107CA
+    name = Kyle Shepherd
+    email = kyle@thisissoon.com
+    signingkey = 87C2B652A1D51BE0
 [core]
     editor = vim
     filemode = false
@@ -38,5 +38,5 @@
     simple = true
 [commit]
     gpgsign = true
-[includeIf "gitdir:~/Projects/Personal/"]
+[includeIf "gitdir:~/repos/Personal/"]
     path = ~/.gitconfig_personal

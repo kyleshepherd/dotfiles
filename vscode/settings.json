@@ -22,7 +22,7 @@
     "files.insertFinalNewline": false,
     "files.trimTrailingWhitespace": true,
 
-    "go.toolsGopath": "/Users/james/Development/Go/",
+    "go.toolsGopath": "/Users/kyleshepherd/Development/Go/",
     "go.inferGopath": true,
     "go.formatOnSave": true,
     "go.formatTool": "goimports",

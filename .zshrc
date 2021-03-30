@@ -54,7 +54,7 @@ export EDITOR="vim"
 # Golang
 export GOPATH=$HOME/Go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
-[[ -s "/Users/james/.gvm/scripts/gvm" ]] && source "/Users/james/.gvm/scripts/gvm"
+[[ -s "/Users/kyleshepherd/.gvm/scripts/gvm" ]] && source "/Users/kyleshepherd/.gvm/scripts/gvm"
 
 # Direnv
 if [ "$(command -v direnv)" != "" ]
