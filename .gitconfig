@@ -1,7 +1,7 @@
 [user]
     name = Kyle Shepherd
     email = kyle@thisissoon.com
-    signingkey = 87C2B652A1D51BE0
+    signingkey = 383FE637C73937E9
 [core]
     editor = vim
     filemode = false
